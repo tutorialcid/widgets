@@ -1,0 +1,1 @@
+var _0x7413=["","write","Widget by Adani Blog"];document[_0x7413[1]](_0x7413[0]);document[_0x7413[1]](_0x7413[2]);
